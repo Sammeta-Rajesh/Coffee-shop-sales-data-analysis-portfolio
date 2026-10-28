@@ -1,0 +1,1 @@
+Coffee Shop Sales Analysis Dashboard built using Microsoft Excel, SQL, and Power BI to analyze sales performance, product trends, store performance, and customer purchasing patterns. Includes interactive dashboards to track total sales, orders, revenue trends, top-selling products, store comparisons, and hourly sales performance to support data-driven business decisions.
